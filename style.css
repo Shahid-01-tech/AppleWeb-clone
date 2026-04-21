@@ -15,6 +15,7 @@ body {
 }
 
 .hero1{
+    margin-top: 10px;
     height: 87%;
     width: 100%;
     background-image: url('hero_iphone_family__fuz5j2v5xx6y_large_2x.jpg');
@@ -493,4 +494,207 @@ footer a{
 }
 .cp p{
     margin-left: 5px;
+}
+.hero{
+    height: 87%;
+    width: 100%;
+    background-image: url('hero_apple_color_logo__fpdpt13yldym_medium.jpg');
+    background-position: center;
+    background-size: 55%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-color: #F5F5F7;
+    
+}
+.hero .iphone{
+    position: absolute;
+    bottom: -20%;
+    width: 50%;
+}
+.hero8{
+    margin-top: 10px;
+    height: 150%;
+    width: 100%;
+    
+    position: relative;
+    background-color: #F5F5F7;
+    
+    
+}
+.hero8 .iphone{
+    width: 50%;
+}
+.video{
+    width: 100%;
+    height: 62%;
+    
+    position: absolute;
+    top: 12%;
+}
+.vid1{
+    position: absolute;
+    left: 0;
+   height: 100%;
+   width: 8%;
+   background-color: #0076DF;
+   background-image: url('https://is1-ssl.mzstatic.com/image/thumb/pa_Dd2CLL-BlWQRqIurClw/2500x1336sr.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.vid2{
+    position: absolute;
+    height: 100%;
+    width: 82%;
+    background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5d/6b/8a/5d6b8a24-1ba8-6a08-8596-47d0cadacd5d/fc3f421a-0ae3-48fa-9cfc-bf3c4f6240e2.png/2500x1336sr.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    left: 9%;
+}
+.title{
+    height: 20%;
+    width: 80%;
+    position: absolute;
+    padding-top: 2.7%;
+    bottom: 0;
+    left: 5%;
+    display: flex;
+}
+.title button{
+    width: 150px;
+    height: 40px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: 500;
+    border: #FFFFFF;
+    margin-right: 5%;
+   
+}
+.title h2{
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.title sup{
+    font-size: 13px;
+}
+.vid3{
+    position: absolute;
+    right: 0;
+   height: 100%;
+   width: 8%;
+   background-color: #0076DF; 
+   background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/f2/4e/e3/f24ee3d7-7259-eb81-141c-ecc587d62dff/9d737dbe-b401-4b72-94ef-74c77cf5a95a.png/2500x1336sr.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.video1{
+    position: absolute;
+    height: 25%;
+    width: 100%;
+    
+    bottom: 0;
+}
+.v1{
+    height: 100%;
+    width: 2%;
+    position: absolute;
+    left: 0;
+    
+    background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/5b/b3/4a/5bb34a60-695c-a96f-75ec-8a957fc2a20b/45899847-e52c-44a1-9ce5-09aedebb7a78.png/940x528.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.v2{
+    height: 100%;
+    width: calc(92%/3);
+    position: absolute;
+    
+    left: 3%;
+    background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/53/55/d7/5355d758-e5b7-b406-f004-bb98d03ecb38/9388d284-2a0b-43e8-86e0-5852e8559d18.png/940x528.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.v2 h4{
+    position: absolute;
+    right: 2%;
+    top: 1%;
+}
+.btn1{
+    position: absolute;
+    bottom: 4%;
+    
+    width: 100%;
+    
+}
+.btn1 h4{
+    margin-left: 4%;
+    font-size: 13px;
+    position: absolute;
+    left: 0;
+    color: #FFFFFF;
+}
+.btn1 button{
+    margin-left: 83%;
+    font-size: 13px;
+    border-radius: 15px;
+    padding: 5px 5px;
+    background-color: #FFFFFF;
+    border: #FFFFFF;
+}
+
+ 
+.v3{
+    height: 100%;
+    width: calc(92%/3);
+    position: absolute;
+   
+    left: calc(92%/3 + 4%);
+    background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/24/00/2d/24002d2d-234b-9895-a5f9-c27189667476/2bc56ca4-c7c4-4588-83fd-30a56c700897.png/940x528.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.v3 h4{
+    position: absolute;
+    right: 2%;
+    top: 1%;
+}
+.v3 .btn1 button{
+    margin-left: 80%;
+    font-size: 13px;
+    border-radius: 15px;
+    padding: 5px 5px;
+}
+.v4{
+    height: 100%;
+    width: calc(92%/3);
+    position: absolute;
+    
+    left: calc(92%/3 + 92%/3 + 5%);;
+    background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/20/56/2b/20562bcb-a666-0f36-367d-7e188766eec6/85a24e2f-a12f-443a-a5c1-ddd78b076bc2.png/940x528.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.v4 h4{
+    position: absolute;
+    right: 2%;
+    top: 1%;
+}
+.v5{
+   height: 100%;
+    width: 2%;
+    position: absolute;
+    right: 0;
+     
+    background-image: url('https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/3a/35/1b/3a351b15-003b-1d33-4485-31a7743ce396/93e1559f-35e7-4d27-809b-ba20f344cb88.png/940x528.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
 }
